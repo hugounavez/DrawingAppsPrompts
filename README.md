@@ -4,7 +4,7 @@ Build the SwiftUI drawing app by following the existing docs.
 
 Read first
 
-DRAWING_APP_FOUNDATION.md (source of truth)
+CODEX_IMPLEMENTATION_PROMPT.md (source of truth)
 
 Every file in agent_tasks/ (execute in filename order)
 
